@@ -4,5 +4,6 @@ __pycache__/
 ds_src
 ds_train
 ds_*
+!ds_chunk_planets
 
 dsrc_*
